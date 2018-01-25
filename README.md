@@ -4,7 +4,7 @@ This application utilizes server-side code to store and display a list of 007 mo
 
 ##How to use the application:
 
-1. Download the all of the files from this GitHub repository: https://github.com/DJG89/BondMovie
+1. Download the all of the files from this GitHub repository: https://github.com/DJG89/MyMovie
 2. Download Python2
 3. In your Terminal, switch to the directory that contains entertainment_center.py
 4. Type:
