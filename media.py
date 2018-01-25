@@ -1,6 +1,5 @@
 import webbrowser
 class Movie():
-# Movie creates the structure for the multiple arrays in entertainment_center.py
     def __init__ (self, movie_title, movie_storyline, poster_image, trailer_youtube):
             self.title = movie_title
             self.storyline = movie_storyline
