@@ -1,6 +1,6 @@
 import webbrowser
-"""Movie creates a structure to be used in entertainment_center.py"""
 class Movie():
+"""Movie creates a structure to be used in entertainment_center.py"""
     def __init__ (self, movie_title, movie_storyline, poster_image, trailer_youtube):
             self.title = movie_title
             self.storyline = movie_storyline
